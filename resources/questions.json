@@ -1,0 +1,777 @@
+[
+ {
+  "picture": "1", 
+  "question": "cos(pi/3) = ?", 
+  "choices": [
+   "0.5", 
+   "0.707", 
+   "0.866", 
+   "1"
+  ], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "0.5"
+  ]
+ }, 
+ {
+  "picture": "2", 
+  "question": "What is the absolute value of -19.8?", 
+  "choices": [], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "input", 
+  "answer": [
+   "19.8"
+  ]
+ }, 
+ {
+  "picture": "3", 
+  "question": "Which number is a factor of 96?", 
+  "choices": [
+   "3", 
+   "13", 
+   "16", 
+   "24"
+  ], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "multi", 
+  "answer": [
+   "3", 
+   "16", 
+   "24"
+  ]
+ }, 
+ {
+  "picture": "4", 
+  "question": "sqrt(256) = ?", 
+  "choices": [], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "input", 
+  "answer": [
+   "16"
+  ]
+ }, 
+ {
+  "picture": "5", 
+  "question": "Which of the followting are irrational numbers?", 
+  "choices": [
+   "pi", 
+   "288", 
+   "-0.6", 
+   "sqrt(3)"
+  ], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "multi", 
+  "answer": [
+   "pi", 
+   "sqrt(3)"
+  ]
+ }, 
+ {
+  "picture": "6", 
+  "question": "The length of two catheti in a right-angled triangleis 18,24, calculate the length of hypotenuse.", 
+  "choices": [], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "input", 
+  "answer": [
+   "30"
+  ]
+ }, 
+ {
+  "picture": "7", 
+  "question": "What is the least common multiple of 36 and 48?", 
+  "choices": [], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "input", 
+  "answer": [
+   "144"
+  ]
+ }, 
+ {
+  "picture": "8", 
+  "question": "What is the greatest common factor of 1024 and 256?", 
+  "choices": [], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "input", 
+  "answer": [
+   "256"
+  ]
+ }, 
+ {
+  "picture": "9", 
+  "question": "Which two integers is sqrt(52) between?", 
+  "choices": [
+   "10 and 11", 
+   "9 and 10", 
+   "8 and 9", 
+   "7 and 8"
+  ], 
+  "topic": "math", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "7 and 8"
+  ]
+ }, 
+ {
+  "picture": "10", 
+  "question": "Florida is located in what region of the United States?", 
+  "choices": [
+   "Northeast", 
+   "Southeast", 
+   "Northwest", 
+   "Southwest"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Southeast"
+  ]
+ }, 
+ {
+  "picture": "11", 
+  "question": "The landmass of which of the following continents is the least?", 
+  "choices": [
+   "Africa", 
+   "Asia", 
+   "Australia", 
+   "Europe"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Australia"
+  ]
+ }, 
+ {
+  "picture": "12", 
+  "question": "What are the top two largest contries in the world?", 
+  "choices": [
+   "The USA", 
+   "Canada", 
+   "Russia", 
+   "China"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "multi", 
+  "answer": [
+   "Canada", 
+   "Russia"
+  ]
+ }, 
+ {
+  "picture": "13", 
+  "question": "What is the longest river in the world?", 
+  "choices": [
+   "Nile river", 
+   "Yellow River", 
+   "Mississippi"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Nile river"
+  ]
+ }, 
+ {
+  "picture": "14", 
+  "question": "Which of the following belongs to China?", 
+  "choices": [
+   "Eiffel Tower", 
+   "Great wall", 
+   "pyramid", 
+   "Taj Mahal"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Great wall"
+  ]
+ }, 
+ {
+  "picture": "15", 
+  "question": "The Homolographic projection has the correct representation of", 
+  "choices": [
+   "shape", 
+   "area", 
+   "baring", 
+   "distance"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "area"
+  ]
+ }, 
+ {
+  "picture": "16", 
+  "question": "The great Victoria Desert is located in", 
+  "choices": [
+   "Canada", 
+   "West Africa", 
+   "Australia", 
+   "North America"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Australia"
+  ]
+ }, 
+ {
+  "picture": "17", 
+  "question": "The intersecting lines drawn on maps and globes are", 
+  "choices": [
+   "latitudes", 
+   "longitudes", 
+   "geographic grids", 
+   "None of the above"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "geographic grids"
+  ]
+ }, 
+ {
+  "picture": "18", 
+  "question": "The humidity of the air depends upon", 
+  "choices": [
+   "temperature", 
+   "location", 
+   "weather", 
+   "length of sunshine"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "multi", 
+  "answer": [
+   "temperature", 
+   "location", 
+   "weather"
+  ]
+ }, 
+ {
+  "picture": "19", 
+  "question": "The river situated along the border between the USA and Mexico is", 
+  "choices": [
+   "the Rio Grande", 
+   "the Amazon", 
+   "the Mississippi", 
+   "the Colorado"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "the Rio Grande"
+  ]
+ }, 
+ {
+  "picture": "20", 
+  "question": "The languages used in China is", 
+  "choices": [
+   "Chinese English", 
+   "Chinese Arabic", 
+   "Chinese French", 
+   "Chinese Korean"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Chinese English"
+  ]
+ }, 
+ {
+  "picture": "21", 
+  "question": "The length of the day is determined in", 
+  "choices": [
+   "astronomical units", 
+   "solar terms", 
+   "length of the hours"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "astronomical units"
+  ]
+ }, 
+ {
+  "picture": "22", 
+  "question": "The highest sand dunes are found is", 
+  "choices": [
+   "the Atacama desert", 
+   "the Kalahari desert", 
+   "the Gobi desert", 
+   "the Sahara desert"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "the Sahara desert"
+  ]
+ }, 
+ {
+  "picture": "23", 
+  "question": "The largest part of our hydrosphere is", 
+  "choices": [
+   "Atlantic Ocean", 
+   "Indian Ocean", 
+   "Pacific ocean", 
+   "Antarctica ocean"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Pacific ocean"
+  ]
+ }, 
+ {
+  "picture": "24", 
+  "question": "The largest continent in the world is", 
+  "choices": [
+   "Africa", 
+   "Asia", 
+   "Australia", 
+   "Antarctica"
+  ], 
+  "topic": "geography", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Asia"
+  ]
+ }, 
+ {
+  "picture": "25", 
+  "question": "Which of the following animals belongs to the mammal?", 
+  "choices": [
+   "cat", 
+   "fish", 
+   "sheep", 
+   "duckbill"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "multi", 
+  "answer": [
+   "cat", 
+   "sheep", 
+   "duckbill"
+  ]
+ }, 
+ {
+  "picture": "26", 
+  "question": "Plants receive their nutrients mainly from", 
+  "choices": [
+   "chlorophyll", 
+   "atmosphere", 
+   "light", 
+   "soil"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "soil"
+  ]
+ }, 
+ {
+  "picture": "27", 
+  "question": "How many legs of an ant?", 
+  "choices": [], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "input", 
+  "answer": [
+   "6"
+  ]
+ }, 
+ {
+  "picture": "28", 
+  "question": "Most fish do not sink in water because of the presence of", 
+  "choices": [
+   "swim bladder", 
+   "air bladder", 
+   "air sacs", 
+   "air in spongy bones"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "multi", 
+  "answer": [
+   "swim bladder", 
+   "air bladder"
+  ]
+ }, 
+ {
+  "picture": "29", 
+  "question": "Plants absorb dissolved nitrates from soil and convert them into", 
+  "choices": [
+   "free nitrogen", 
+   "urea", 
+   "ammonia", 
+   "proteins"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "free nitrogen"
+  ]
+ }, 
+ {
+  "picture": "30", 
+  "question": "One of the following is not a function of bones.", 
+  "choices": [
+   "Place for muscle attachment", 
+   "Protection of vital organs", 
+   "Secretion for calcium regulation", 
+   "Production of blood corpuscles"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Secretion for calcium regulation"
+  ]
+ }, 
+ {
+  "picture": "31", 
+  "question": "Plants absorb most part of water needed by them through their", 
+  "choices": [
+   "embryonic zone", 
+   "growing point", 
+   "root hairs", 
+   "zone of elongation"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "root hairs"
+  ]
+ }, 
+ {
+  "picture": "32", 
+  "question": "Plant development is influenced by", 
+  "choices": [
+   "quality of light", 
+   "quantity of light", 
+   "duration of light"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "multi", 
+  "answer": [
+   "quality of light", 
+   "quantity of light", 
+   "duration of light"
+  ]
+ }, 
+ {
+  "picture": "33", 
+  "question": "Plants that grow in saline water are called", 
+  "choices": [
+   "halophytes", 
+   "hydrophytes", 
+   "mesophytes", 
+   "thallophytes"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "halophytes"
+  ]
+ }, 
+ {
+  "picture": "34", 
+  "question": "Potato is a modified form (outgrowth) of", 
+  "choices": [
+   "root", 
+   "stem", 
+   "fruit", 
+   "leaf"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "stem"
+  ]
+ }, 
+ {
+  "picture": "35", 
+  "question": "Most of the red, blue and purple colours of plants are due to a pigment called", 
+  "choices": [
+   "anthocyanin", 
+   "carotene", 
+   "chlorophyll", 
+   "xanthophylls"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "anthocyanin"
+  ]
+ }, 
+ {
+  "picture": "36", 
+  "question": "Plant have ____ while animals lack it.", 
+  "choices": [
+   "starch", 
+   "cellulose", 
+   "protein", 
+   "fat"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "cellulose"
+  ]
+ }, 
+ {
+  "picture": "37", 
+  "question": "Oxygen in our blood is transported by a protein named", 
+  "choices": [
+   "haemoglobin", 
+   "keratin", 
+   "collagen", 
+   "myoglobin"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "haemoglobin"
+  ]
+ }, 
+ {
+  "picture": "38", 
+  "question": "Night blindness is cause by lack of which vitamin?", 
+  "choices": [
+   "Vitamin A", 
+   "Vitamin B", 
+   "Vitamin C", 
+   "Vitamin D"
+  ], 
+  "topic": "biology", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Vitamin A"
+  ]
+ }, 
+ {
+  "picture": "39", 
+  "question": "Which country set up the cultural heritage day?", 
+  "choices": [
+   "England", 
+   "The USA", 
+   "France", 
+   "Germany"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "France"
+  ]
+ }, 
+ {
+  "picture": "40", 
+  "question": "Who was the first President of the United States?", 
+  "choices": [
+   "John Adam", 
+   "George Washington", 
+   "Andrew Jackson", 
+   "Thomas Jefferson"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "George Washington"
+  ]
+ }, 
+ {
+  "picture": "41", 
+  "question": "How many colonies was the United States originally?", 
+  "choices": [
+   "11", 
+   "12", 
+   "13", 
+   "14"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "13"
+  ]
+ }, 
+ {
+  "picture": "42", 
+  "question": "What war was fought on American soil from 1861 to 1865?", 
+  "choices": [
+   "War of 1812", 
+   "World War I", 
+   "The Revolutionary War", 
+   "The American Civil War"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "The American Civil War"
+  ]
+ }, 
+ {
+  "picture": "43", 
+  "question": "How many judges are there in the United States Surpreme Court?", 
+  "choices": [
+   "5", 
+   "7", 
+   "9", 
+   "11"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "9"
+  ]
+ }, 
+ {
+  "picture": "44", 
+  "question": "Date of the signing of the Declaration of Independence?", 
+  "choices": [
+   "July 4 1776", 
+   "July 4 1786", 
+   "July 4 1876"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "July 4 1776"
+  ]
+ }, 
+ {
+  "picture": "45", 
+  "question": "Thomas Jefferson negotiated what purchase from France in 1803?", 
+  "choices": [
+   "Alaska", 
+   "Louisiana", 
+   "Florida"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Louisiana"
+  ]
+ }, 
+ {
+  "picture": "46", 
+  "question": "What was the first permanent English settlement in U.S?", 
+  "choices": [
+   "Salem", 
+   "Mass Bay", 
+   "Jamestown"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Jamestown"
+  ]
+ }, 
+ {
+  "picture": "47", 
+  "question": "What famous document begins When in the course of human events?", 
+  "choices": [
+   "The Declaration of Independence", 
+   "The bill of rights", 
+   "The US Constittion"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "The Declaration of Independence"
+  ]
+ }, 
+ {
+  "picture": "48", 
+  "question": "What year was the Berlin wall torn down?", 
+  "choices": [
+   "1978", 
+   "1989", 
+   "1995", 
+   "2000"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "1989"
+  ]
+ }, 
+ {
+  "picture": "49", 
+  "question": "Who said \"Give me liberty or give me death?\"", 
+  "choices": [
+   "John Hancock", 
+   "James Madison", 
+   "Patrick Henry", 
+   "Samuel Adams"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "Patrick Henry"
+  ]
+ }, 
+ {
+  "picture": "50", 
+  "question": "When was the Civil War?", 
+  "choices": [
+   "1750-1800", 
+   "1800-1850", 
+   "1850-1900", 
+   "1900-1950", 
+   "after 1950"
+  ], 
+  "topic": "history", 
+  "points": 2, 
+  "question_type": "single", 
+  "answer": [
+   "1850-1900"
+  ]
+ }
+]
