@@ -15,8 +15,8 @@ This is an interactive game which is developed based on Java Swing.
 
 # Screenshots
 
-<img src="screenshots/001.png" width="232" hspace="3"/>
-<img src="screenshots/002.png" width="232" hspace="3"/>
-<img src="screenshots/003.png" width="232" hspace="3"/>
-<img src="screenshots/004.png" width="232" hspace="3"/>
-<img src="screenshots/005.png" width="232" hspace="3"/>
+<img src="screenshots/001.png" width="500" hspace="3"/>
+<img src="screenshots/002.png" width="500" hspace="3"/>
+<img src="screenshots/003.png" width="500" hspace="3"/>
+<img src="screenshots/004.png" width="500" hspace="3"/>
+<img src="screenshots/005.png" width="500" hspace="3"/>
